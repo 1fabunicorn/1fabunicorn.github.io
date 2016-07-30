@@ -1,0 +1,38 @@
+body {
+  background-color : #44332B;
+}
+.head {
+ font-size : 70px;
+ font-family: 'Open Sans', sans-serif;
+ margin-top: -70px;
+ margin-bottom: -70px;
+
+}  
+
+.jumbotron{
+ background-color : #497488; 
+padding-bottom: 2px;
+  padding-top : 13px;
+}
+
+#imgsize {
+  height: 350px;
+    width: auto;
+    /*margin : -32px;*/
+  border-radius : 15px;
+  outline: 12px red;
+}
+
+.quote-main{
+  color: black ;
+  /*color: #497488; */
+  letter-spacing: 3px ;
+}
+
+.quote-cite{
+	color: gray;
+}
+
+.quote{
+  margin-top:50px;
+}
