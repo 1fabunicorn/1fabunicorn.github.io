@@ -1,11 +1,13 @@
 body {
   background-color : #44332B;
 }
-.head {
- font-size : 70px;
+.head{
+ font-size : 150px;
  font-family: 'Open Sans', sans-serif;
- margin-top: -70px;
- margin-bottom: -70px;
+ padding-top: -30px;
+ padding-bottom: -15px;
+ margin-top:-23px ;
+ margin-bottom: -15px ; 
 
 }  
 
@@ -15,12 +17,15 @@ padding-bottom: 2px;
   padding-top : 13px;
 }
 
-#imgsize {
+.imgsize{
   height: 350px;
     width: auto;
     /*margin : -32px;*/
   border-radius : 15px;
   outline: 12px red;
+  margin:0px;
+  margin-top: 0px;
+  padding-top: 0px;
 }
 
 .quote-main{
@@ -35,4 +40,16 @@ padding-bottom: 2px;
 
 .quote{
   margin-top:50px;
+  background-color: #4e3a31;
+}
+
+#hr{
+	width: "100%";
+	
+	color : #497488;
+
+}
+
+.jumbos{
+	margin-bottom: 0px;
 }
