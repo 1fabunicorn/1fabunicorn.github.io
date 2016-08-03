@@ -1,0 +1,71 @@
+body {
+  background-color : #44332B;
+}
+.head{
+ font-size : 150px;
+ font-family: 'Open Sans', sans-serif;
+ padding-top: -30px;
+ padding-bottom: -15px;
+ margin-top:-23px ;
+ margin-bottom: -15px ; 
+
+}  
+
+.jumbotron{
+ background-color : #497488; 
+padding-bottom: 2px;
+  padding-top : 13px;
+}
+
+.imgsize{
+  height: 350px;
+    width: auto;
+    /*margin : -32px;*/
+  border-radius : 15px;
+  outline: 12px red;
+  margin:0px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.quote-main{
+  color: white ;
+  /*color: #497488; */
+  letter-spacing: 3px ;
+  font-size: 30px;
+  margin:5px;
+  padding: 5px;
+}
+
+.quote-cite{
+	color: gray;
+}
+
+.quote{
+  margin:10px;
+  padding: 10px;
+  background-color: #4e3a31;
+  animation-duration: .7s;
+  animation-delay: .5s;
+  animation-iteration-count: 1;
+}
+}
+
+#hr{
+	width: "100%";
+	
+	color : #497488;
+
+}
+
+.jumbos{
+	margin-bottom: -7px;
+  animation-duration: .9s;
+  animation-delay: .2s;
+  animation-iteration-count: 1;
+}
+#middle, #right, #left{
+  animation-duration: .11;
+  animation-delay: .4s;
+  animation-iteration-count: 1;
+}
