@@ -1,3 +1,9 @@
+#middle, #right, #left{
+  animation-duration: .11;
+  animation-delay: .4s;
+  animation-iteration-count: 1;
+}
+
 body {
   background-color : #44332B;
 }
@@ -13,7 +19,7 @@ body {
 
 .jumbotron{
  background-color : #497488; 
-padding-bottom: 2px;
+padding-bottom: -3px;
   padding-top : 13px;
 }
 
@@ -35,6 +41,7 @@ padding-bottom: 2px;
   font-size: 30px;
   margin:5px;
   padding: 5px;
+  overflow : auto;
 }
 
 .quote-cite{
@@ -49,23 +56,37 @@ padding-bottom: 2px;
   animation-delay: .5s;
   animation-iteration-count: 1;
 }
+
+.para-text{
+  font-size: 20px;
+  color : white;
+  margin-top: 10px;
+  margin-bottom :10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: 'Open Sans', sans-serif;
 }
 
-#hr{
-	width: "100%";
-	
-	color : #497488;
+
 
 }
-
 .jumbos{
 	margin-bottom: -7px;
   animation-duration: .9s;
   animation-delay: .2s;
   animation-iteration-count: 1;
 }
-#middle, #right, #left{
-  animation-duration: .11;
-  animation-delay: .4s;
-  animation-iteration-count: 1;
+
+.top-flag{
+  width: 70px;
+  height: auto;
+  margin: 10px;
+}
+
+.gif {
+height: 60px;
+width: auto;
+margin-top: -30px
+margin:5px;
+padding: 8px;
 }
