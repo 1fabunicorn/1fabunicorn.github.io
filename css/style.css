@@ -38,7 +38,7 @@ padding-bottom: -3px;
   color: white ;
   /*color: #497488; */
   letter-spacing: 3px ;
-  font-size: 30px;
+  font-size: 25px;
   margin:5px;
   padding: 5px;
   overflow : auto;
@@ -49,8 +49,8 @@ padding-bottom: -3px;
 }
 
 .quote{
-  margin:10px;
-  padding: 10px;
+  margin:3px;
+  padding: 4px;
   background-color: #4e3a31;
   animation-duration: .7s;
   animation-delay: .5s;
@@ -60,11 +60,14 @@ padding-bottom: -3px;
 .para-text{
   font-size: 20px;
   color : white;
-  margin-top: 10px;
-  margin-bottom :10px;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom :20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  
+  padding-bottom: 0px ;
   font-family: 'Open Sans', sans-serif;
+  background-color: #F4AC99;
 }
 
 
@@ -85,10 +88,11 @@ padding-bottom: -3px;
 }
 
 .gif {
-height: 60px;
+height: auto; 
 width: auto;
-margin-top: -45px
+margin-top: 0px
 margin:5px;
 padding: 8px;
 padding-top: 0px;
 }
+
