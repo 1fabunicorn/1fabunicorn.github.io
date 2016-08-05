@@ -1,5 +1,5 @@
 
-###This is Novas first ever website code that they made for the magical Free Code Camp (fcc) curriculum. It is mostly finished ### 
+###This is Novas first ever website code that they made for the magical Free Code Camp (fcc) curriculum. It is mostly finished###
 ___
 #####Ps. Nova's pretty <b>proud</b> of <b>themselves</b>####
 ####[codepen](https://codepen.io/1fabunicorn/pen/oLEKaQ)####
